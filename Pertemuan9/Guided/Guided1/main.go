@@ -37,4 +37,5 @@ func main() {
     ipkTerkecil := IPK_1(mahasiswaArr, n) 
  
     fmt.Printf("IPK terkecil adalah: %.2f\n", ipkTerkecil) 
+
 } 
